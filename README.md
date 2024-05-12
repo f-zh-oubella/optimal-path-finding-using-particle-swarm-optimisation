@@ -1,1 +1,1 @@
-# optimal-path-finiding-using-particle-swarm-optimisation
+# optimal-path-finding-using-particle-swarm-optimisation
